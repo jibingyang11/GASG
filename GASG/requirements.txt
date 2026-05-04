@@ -1,0 +1,29 @@
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scipy>=1.11.0
+tqdm>=4.65.0
+pyyaml>=6.0
+matplotlib>=3.7.0
+
+# Metrics
+lpips==0.1.4
+scikit-image>=0.21.0
+
+# Depth foundation models (baselines)
+diffusers>=0.25.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+timm>=0.9.0
+einops>=0.7.0
+transformers>=4.36.0
+huggingface-hub>=0.23.0
+omegaconf>=2.3.0
+peft>=0.10.0
+gradio_client>=1.0.0
+
+# Visualization
+tensorboard>=2.14.0
