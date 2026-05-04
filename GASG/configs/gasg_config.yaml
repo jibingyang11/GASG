@@ -1,0 +1,103 @@
+# ============================================================
+# GASG v6 Lite Fast Configuration
+# ============================================================
+
+model:
+  base_ch: 24
+  max_disp: 24.0
+  positive_disp: true
+  residual_scale: 1.10
+  gamma_correction: 1.0
+  num_bottleneck_blocks: 3
+  fusion_bias: -1.2
+  final_refine_scale: 0.30
+
+training:
+  total_epochs: 70
+  batch_size: 1
+  num_workers: 0
+  lr_start: 5.0e-6
+  lr_end: 5.0e-7
+  lr_scheduler: warmup_cosine
+  warmup_epochs: 0
+  optimizer: adamw
+  betas: [0.9, 0.999]
+  weight_decay: 1.0e-6
+  grad_clip_norm: 0.3
+  ema_decay: 0.995
+  ssim_downsample: 4
+  amp: true
+  input_height: 256
+  input_width: 576
+  seed: 42
+
+loss_weights:
+  photo: 1.0
+  mse: 0.8
+  warp: 0.18
+  ms: 0.12
+  ssim: 0.025
+  census: 0.04
+  edge: 0.008
+  lowfreq: 0.03
+  wavelet_high: 0.035
+  wavelet_low: 0.008
+  near_photo: 0.35
+  near_mse: 0.35
+  direct_photo: 0.30
+  direct_mse: 0.25
+  direct_wavelet_high: 0.025
+  direct_wavelet_low: 0.004
+  direct_near_photo: 0.20
+  direct_near_mse: 0.20
+  smooth: 0.004
+  flow: 0.00003
+  mask: 0.0005
+  mask_tv: 0.0005
+  residual: 0.002
+
+psnr_finetune:
+  enabled: true
+  start_epoch: 1
+  lr_start: 3.0e-6
+  lr_end: 5.0e-7
+  warmup_epochs: 0
+  loss_weights:
+    photo: 0.8
+    mse: 1.2
+
+    warp: 0.05
+    ms: 0.04
+    ssim: 0.003
+    census: 0.01
+    edge: 0.008
+    lowfreq: 0.006
+
+    wavelet_high: 0.025
+    wavelet_low: 0.001
+
+    near_photo: 0.20
+    near_mse: 0.30
+
+    direct_photo: 0.25
+    direct_mse: 0.30
+    direct_wavelet_high: 0.040
+    direct_wavelet_low: 0.001
+    direct_near_photo: 0.25
+    direct_near_mse: 0.30
+
+    smooth: 0.001
+    flow: 0.000005
+    mask: 0.0
+    mask_tv: 0.00005
+    residual: 0.0
+
+data:
+  person_root: "data/PersonDataset"
+
+logging:
+  save_dir: "experiments"
+  exp_name: "gasg_v6_lite_detail_refine"
+  save_every: 2
+  log_every: 100
+  val_every: 1
