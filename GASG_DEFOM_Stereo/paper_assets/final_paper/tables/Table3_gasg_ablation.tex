@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{GASG right-view synthesis ablation on PersonDataset. All variants use the same trained checkpoint and differ only in the inference assembly of the final right image.}
+\label{tab:gasg_ablation}
+\small
+\setlength{\tabcolsep}{4.5pt}
+\renewcommand{\arraystretch}{1.08}
+\makebox[\linewidth][c]{%
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+Variant & PSNR$\uparrow$ & SSIM$\uparrow$ & LPIPS$\downarrow$ & Time (ms)$\downarrow$ \\
+\midrule
+Warp-only & 21.21 & 0.9126 & 0.1372 & 167.1 \\
+Direct-only & 28.21 & 0.9649 & 0.0458 & 167.3 \\
+No final refinement & 28.21 & 0.9650 & 0.0453 & 167.1 \\
+Full GASG & 28.56 & 0.9687 & 0.0425 & 167.0 \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
