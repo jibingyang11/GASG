@@ -1,0 +1,11 @@
+[2026-05-04 15:45:11,821][__main__][INFO] - Reading 6400 samples from PersonDataset.
+[2026-05-04 15:45:13,906][numexpr.utils][INFO] - NumExpr defaulting to 12 threads.
+[2026-05-04 15:45:15,382][__main__][WARNING] - xformers attention is unavailable; using default attention. Refer to https://github.com/facebookresearch/xformers for more information on how to install xformers
+[2026-05-04 15:45:15,576][__main__][INFO] - Loading model from StereoGen.
+[2026-05-04 16:21:54,807][accelerate.accelerator][INFO] - Saving current state to checkpoint/stereogen_person\120
+[2026-05-04 16:21:59,567][accelerate.checkpointing][INFO] - Model weights saved in checkpoint\stereogen_person\120\model.safetensors
+[2026-05-04 16:22:23,936][accelerate.checkpointing][INFO] - Optimizer state saved in checkpoint\stereogen_person\120\optimizer.bin
+[2026-05-04 16:22:23,937][accelerate.checkpointing][INFO] - Scheduler state saved in checkpoint\stereogen_person\120\scheduler.bin
+[2026-05-04 16:22:23,937][accelerate.checkpointing][INFO] - Sampler state for dataloader 0 saved in checkpoint\stereogen_person\120\sampler.bin
+[2026-05-04 16:22:23,938][accelerate.checkpointing][INFO] - Gradient scaler state saved in checkpoint\stereogen_person\120\scaler.pt
+[2026-05-04 16:22:23,941][accelerate.checkpointing][INFO] - Random states saved in checkpoint\stereogen_person\120\random_states_0.pkl

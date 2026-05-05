@@ -1,0 +1,2008 @@
+{
+  "person_root": "D:\\MyJupyter\\Works\\GASG_DEFOM_Stereo\\data\\PersonDataset",
+  "work_root": "D:\\MyJupyter\\Works\\GASG_DEFOM_Stereo\\data\\zerostereo_person_tuned_test",
+  "height": 256,
+  "width": 576,
+  "records": [
+    {
+      "out_index": 0,
+      "person_index": 0,
+      "left": "test/left/00000.png",
+      "right": "test/right/00000.png",
+      "disp": "test/disparity/00000.npy",
+      "confidence": "test/confidence/00000.npy",
+      "mask_nocc": "test/mask_nocc/00000.png",
+      "mask_inpaint": "test/mask_inpaint/00000.png"
+    },
+    {
+      "out_index": 1,
+      "person_index": 8,
+      "left": "test/left/00001.png",
+      "right": "test/right/00001.png",
+      "disp": "test/disparity/00001.npy",
+      "confidence": "test/confidence/00001.npy",
+      "mask_nocc": "test/mask_nocc/00001.png",
+      "mask_inpaint": "test/mask_inpaint/00001.png"
+    },
+    {
+      "out_index": 2,
+      "person_index": 16,
+      "left": "test/left/00002.png",
+      "right": "test/right/00002.png",
+      "disp": "test/disparity/00002.npy",
+      "confidence": "test/confidence/00002.npy",
+      "mask_nocc": "test/mask_nocc/00002.png",
+      "mask_inpaint": "test/mask_inpaint/00002.png"
+    },
+    {
+      "out_index": 3,
+      "person_index": 24,
+      "left": "test/left/00003.png",
+      "right": "test/right/00003.png",
+      "disp": "test/disparity/00003.npy",
+      "confidence": "test/confidence/00003.npy",
+      "mask_nocc": "test/mask_nocc/00003.png",
+      "mask_inpaint": "test/mask_inpaint/00003.png"
+    },
+    {
+      "out_index": 4,
+      "person_index": 32,
+      "left": "test/left/00004.png",
+      "right": "test/right/00004.png",
+      "disp": "test/disparity/00004.npy",
+      "confidence": "test/confidence/00004.npy",
+      "mask_nocc": "test/mask_nocc/00004.png",
+      "mask_inpaint": "test/mask_inpaint/00004.png"
+    },
+    {
+      "out_index": 5,
+      "person_index": 40,
+      "left": "test/left/00005.png",
+      "right": "test/right/00005.png",
+      "disp": "test/disparity/00005.npy",
+      "confidence": "test/confidence/00005.npy",
+      "mask_nocc": "test/mask_nocc/00005.png",
+      "mask_inpaint": "test/mask_inpaint/00005.png"
+    },
+    {
+      "out_index": 6,
+      "person_index": 48,
+      "left": "test/left/00006.png",
+      "right": "test/right/00006.png",
+      "disp": "test/disparity/00006.npy",
+      "confidence": "test/confidence/00006.npy",
+      "mask_nocc": "test/mask_nocc/00006.png",
+      "mask_inpaint": "test/mask_inpaint/00006.png"
+    },
+    {
+      "out_index": 7,
+      "person_index": 56,
+      "left": "test/left/00007.png",
+      "right": "test/right/00007.png",
+      "disp": "test/disparity/00007.npy",
+      "confidence": "test/confidence/00007.npy",
+      "mask_nocc": "test/mask_nocc/00007.png",
+      "mask_inpaint": "test/mask_inpaint/00007.png"
+    },
+    {
+      "out_index": 8,
+      "person_index": 64,
+      "left": "test/left/00008.png",
+      "right": "test/right/00008.png",
+      "disp": "test/disparity/00008.npy",
+      "confidence": "test/confidence/00008.npy",
+      "mask_nocc": "test/mask_nocc/00008.png",
+      "mask_inpaint": "test/mask_inpaint/00008.png"
+    },
+    {
+      "out_index": 9,
+      "person_index": 72,
+      "left": "test/left/00009.png",
+      "right": "test/right/00009.png",
+      "disp": "test/disparity/00009.npy",
+      "confidence": "test/confidence/00009.npy",
+      "mask_nocc": "test/mask_nocc/00009.png",
+      "mask_inpaint": "test/mask_inpaint/00009.png"
+    },
+    {
+      "out_index": 10,
+      "person_index": 80,
+      "left": "test/left/00010.png",
+      "right": "test/right/00010.png",
+      "disp": "test/disparity/00010.npy",
+      "confidence": "test/confidence/00010.npy",
+      "mask_nocc": "test/mask_nocc/00010.png",
+      "mask_inpaint": "test/mask_inpaint/00010.png"
+    },
+    {
+      "out_index": 11,
+      "person_index": 88,
+      "left": "test/left/00011.png",
+      "right": "test/right/00011.png",
+      "disp": "test/disparity/00011.npy",
+      "confidence": "test/confidence/00011.npy",
+      "mask_nocc": "test/mask_nocc/00011.png",
+      "mask_inpaint": "test/mask_inpaint/00011.png"
+    },
+    {
+      "out_index": 12,
+      "person_index": 96,
+      "left": "test/left/00012.png",
+      "right": "test/right/00012.png",
+      "disp": "test/disparity/00012.npy",
+      "confidence": "test/confidence/00012.npy",
+      "mask_nocc": "test/mask_nocc/00012.png",
+      "mask_inpaint": "test/mask_inpaint/00012.png"
+    },
+    {
+      "out_index": 13,
+      "person_index": 104,
+      "left": "test/left/00013.png",
+      "right": "test/right/00013.png",
+      "disp": "test/disparity/00013.npy",
+      "confidence": "test/confidence/00013.npy",
+      "mask_nocc": "test/mask_nocc/00013.png",
+      "mask_inpaint": "test/mask_inpaint/00013.png"
+    },
+    {
+      "out_index": 14,
+      "person_index": 112,
+      "left": "test/left/00014.png",
+      "right": "test/right/00014.png",
+      "disp": "test/disparity/00014.npy",
+      "confidence": "test/confidence/00014.npy",
+      "mask_nocc": "test/mask_nocc/00014.png",
+      "mask_inpaint": "test/mask_inpaint/00014.png"
+    },
+    {
+      "out_index": 15,
+      "person_index": 120,
+      "left": "test/left/00015.png",
+      "right": "test/right/00015.png",
+      "disp": "test/disparity/00015.npy",
+      "confidence": "test/confidence/00015.npy",
+      "mask_nocc": "test/mask_nocc/00015.png",
+      "mask_inpaint": "test/mask_inpaint/00015.png"
+    },
+    {
+      "out_index": 16,
+      "person_index": 128,
+      "left": "test/left/00016.png",
+      "right": "test/right/00016.png",
+      "disp": "test/disparity/00016.npy",
+      "confidence": "test/confidence/00016.npy",
+      "mask_nocc": "test/mask_nocc/00016.png",
+      "mask_inpaint": "test/mask_inpaint/00016.png"
+    },
+    {
+      "out_index": 17,
+      "person_index": 136,
+      "left": "test/left/00017.png",
+      "right": "test/right/00017.png",
+      "disp": "test/disparity/00017.npy",
+      "confidence": "test/confidence/00017.npy",
+      "mask_nocc": "test/mask_nocc/00017.png",
+      "mask_inpaint": "test/mask_inpaint/00017.png"
+    },
+    {
+      "out_index": 18,
+      "person_index": 144,
+      "left": "test/left/00018.png",
+      "right": "test/right/00018.png",
+      "disp": "test/disparity/00018.npy",
+      "confidence": "test/confidence/00018.npy",
+      "mask_nocc": "test/mask_nocc/00018.png",
+      "mask_inpaint": "test/mask_inpaint/00018.png"
+    },
+    {
+      "out_index": 19,
+      "person_index": 152,
+      "left": "test/left/00019.png",
+      "right": "test/right/00019.png",
+      "disp": "test/disparity/00019.npy",
+      "confidence": "test/confidence/00019.npy",
+      "mask_nocc": "test/mask_nocc/00019.png",
+      "mask_inpaint": "test/mask_inpaint/00019.png"
+    },
+    {
+      "out_index": 20,
+      "person_index": 160,
+      "left": "test/left/00020.png",
+      "right": "test/right/00020.png",
+      "disp": "test/disparity/00020.npy",
+      "confidence": "test/confidence/00020.npy",
+      "mask_nocc": "test/mask_nocc/00020.png",
+      "mask_inpaint": "test/mask_inpaint/00020.png"
+    },
+    {
+      "out_index": 21,
+      "person_index": 168,
+      "left": "test/left/00021.png",
+      "right": "test/right/00021.png",
+      "disp": "test/disparity/00021.npy",
+      "confidence": "test/confidence/00021.npy",
+      "mask_nocc": "test/mask_nocc/00021.png",
+      "mask_inpaint": "test/mask_inpaint/00021.png"
+    },
+    {
+      "out_index": 22,
+      "person_index": 176,
+      "left": "test/left/00022.png",
+      "right": "test/right/00022.png",
+      "disp": "test/disparity/00022.npy",
+      "confidence": "test/confidence/00022.npy",
+      "mask_nocc": "test/mask_nocc/00022.png",
+      "mask_inpaint": "test/mask_inpaint/00022.png"
+    },
+    {
+      "out_index": 23,
+      "person_index": 184,
+      "left": "test/left/00023.png",
+      "right": "test/right/00023.png",
+      "disp": "test/disparity/00023.npy",
+      "confidence": "test/confidence/00023.npy",
+      "mask_nocc": "test/mask_nocc/00023.png",
+      "mask_inpaint": "test/mask_inpaint/00023.png"
+    },
+    {
+      "out_index": 24,
+      "person_index": 192,
+      "left": "test/left/00024.png",
+      "right": "test/right/00024.png",
+      "disp": "test/disparity/00024.npy",
+      "confidence": "test/confidence/00024.npy",
+      "mask_nocc": "test/mask_nocc/00024.png",
+      "mask_inpaint": "test/mask_inpaint/00024.png"
+    },
+    {
+      "out_index": 25,
+      "person_index": 200,
+      "left": "test/left/00025.png",
+      "right": "test/right/00025.png",
+      "disp": "test/disparity/00025.npy",
+      "confidence": "test/confidence/00025.npy",
+      "mask_nocc": "test/mask_nocc/00025.png",
+      "mask_inpaint": "test/mask_inpaint/00025.png"
+    },
+    {
+      "out_index": 26,
+      "person_index": 208,
+      "left": "test/left/00026.png",
+      "right": "test/right/00026.png",
+      "disp": "test/disparity/00026.npy",
+      "confidence": "test/confidence/00026.npy",
+      "mask_nocc": "test/mask_nocc/00026.png",
+      "mask_inpaint": "test/mask_inpaint/00026.png"
+    },
+    {
+      "out_index": 27,
+      "person_index": 216,
+      "left": "test/left/00027.png",
+      "right": "test/right/00027.png",
+      "disp": "test/disparity/00027.npy",
+      "confidence": "test/confidence/00027.npy",
+      "mask_nocc": "test/mask_nocc/00027.png",
+      "mask_inpaint": "test/mask_inpaint/00027.png"
+    },
+    {
+      "out_index": 28,
+      "person_index": 224,
+      "left": "test/left/00028.png",
+      "right": "test/right/00028.png",
+      "disp": "test/disparity/00028.npy",
+      "confidence": "test/confidence/00028.npy",
+      "mask_nocc": "test/mask_nocc/00028.png",
+      "mask_inpaint": "test/mask_inpaint/00028.png"
+    },
+    {
+      "out_index": 29,
+      "person_index": 232,
+      "left": "test/left/00029.png",
+      "right": "test/right/00029.png",
+      "disp": "test/disparity/00029.npy",
+      "confidence": "test/confidence/00029.npy",
+      "mask_nocc": "test/mask_nocc/00029.png",
+      "mask_inpaint": "test/mask_inpaint/00029.png"
+    },
+    {
+      "out_index": 30,
+      "person_index": 240,
+      "left": "test/left/00030.png",
+      "right": "test/right/00030.png",
+      "disp": "test/disparity/00030.npy",
+      "confidence": "test/confidence/00030.npy",
+      "mask_nocc": "test/mask_nocc/00030.png",
+      "mask_inpaint": "test/mask_inpaint/00030.png"
+    },
+    {
+      "out_index": 31,
+      "person_index": 248,
+      "left": "test/left/00031.png",
+      "right": "test/right/00031.png",
+      "disp": "test/disparity/00031.npy",
+      "confidence": "test/confidence/00031.npy",
+      "mask_nocc": "test/mask_nocc/00031.png",
+      "mask_inpaint": "test/mask_inpaint/00031.png"
+    },
+    {
+      "out_index": 32,
+      "person_index": 256,
+      "left": "test/left/00032.png",
+      "right": "test/right/00032.png",
+      "disp": "test/disparity/00032.npy",
+      "confidence": "test/confidence/00032.npy",
+      "mask_nocc": "test/mask_nocc/00032.png",
+      "mask_inpaint": "test/mask_inpaint/00032.png"
+    },
+    {
+      "out_index": 33,
+      "person_index": 264,
+      "left": "test/left/00033.png",
+      "right": "test/right/00033.png",
+      "disp": "test/disparity/00033.npy",
+      "confidence": "test/confidence/00033.npy",
+      "mask_nocc": "test/mask_nocc/00033.png",
+      "mask_inpaint": "test/mask_inpaint/00033.png"
+    },
+    {
+      "out_index": 34,
+      "person_index": 272,
+      "left": "test/left/00034.png",
+      "right": "test/right/00034.png",
+      "disp": "test/disparity/00034.npy",
+      "confidence": "test/confidence/00034.npy",
+      "mask_nocc": "test/mask_nocc/00034.png",
+      "mask_inpaint": "test/mask_inpaint/00034.png"
+    },
+    {
+      "out_index": 35,
+      "person_index": 280,
+      "left": "test/left/00035.png",
+      "right": "test/right/00035.png",
+      "disp": "test/disparity/00035.npy",
+      "confidence": "test/confidence/00035.npy",
+      "mask_nocc": "test/mask_nocc/00035.png",
+      "mask_inpaint": "test/mask_inpaint/00035.png"
+    },
+    {
+      "out_index": 36,
+      "person_index": 288,
+      "left": "test/left/00036.png",
+      "right": "test/right/00036.png",
+      "disp": "test/disparity/00036.npy",
+      "confidence": "test/confidence/00036.npy",
+      "mask_nocc": "test/mask_nocc/00036.png",
+      "mask_inpaint": "test/mask_inpaint/00036.png"
+    },
+    {
+      "out_index": 37,
+      "person_index": 296,
+      "left": "test/left/00037.png",
+      "right": "test/right/00037.png",
+      "disp": "test/disparity/00037.npy",
+      "confidence": "test/confidence/00037.npy",
+      "mask_nocc": "test/mask_nocc/00037.png",
+      "mask_inpaint": "test/mask_inpaint/00037.png"
+    },
+    {
+      "out_index": 38,
+      "person_index": 304,
+      "left": "test/left/00038.png",
+      "right": "test/right/00038.png",
+      "disp": "test/disparity/00038.npy",
+      "confidence": "test/confidence/00038.npy",
+      "mask_nocc": "test/mask_nocc/00038.png",
+      "mask_inpaint": "test/mask_inpaint/00038.png"
+    },
+    {
+      "out_index": 39,
+      "person_index": 312,
+      "left": "test/left/00039.png",
+      "right": "test/right/00039.png",
+      "disp": "test/disparity/00039.npy",
+      "confidence": "test/confidence/00039.npy",
+      "mask_nocc": "test/mask_nocc/00039.png",
+      "mask_inpaint": "test/mask_inpaint/00039.png"
+    },
+    {
+      "out_index": 40,
+      "person_index": 320,
+      "left": "test/left/00040.png",
+      "right": "test/right/00040.png",
+      "disp": "test/disparity/00040.npy",
+      "confidence": "test/confidence/00040.npy",
+      "mask_nocc": "test/mask_nocc/00040.png",
+      "mask_inpaint": "test/mask_inpaint/00040.png"
+    },
+    {
+      "out_index": 41,
+      "person_index": 328,
+      "left": "test/left/00041.png",
+      "right": "test/right/00041.png",
+      "disp": "test/disparity/00041.npy",
+      "confidence": "test/confidence/00041.npy",
+      "mask_nocc": "test/mask_nocc/00041.png",
+      "mask_inpaint": "test/mask_inpaint/00041.png"
+    },
+    {
+      "out_index": 42,
+      "person_index": 336,
+      "left": "test/left/00042.png",
+      "right": "test/right/00042.png",
+      "disp": "test/disparity/00042.npy",
+      "confidence": "test/confidence/00042.npy",
+      "mask_nocc": "test/mask_nocc/00042.png",
+      "mask_inpaint": "test/mask_inpaint/00042.png"
+    },
+    {
+      "out_index": 43,
+      "person_index": 344,
+      "left": "test/left/00043.png",
+      "right": "test/right/00043.png",
+      "disp": "test/disparity/00043.npy",
+      "confidence": "test/confidence/00043.npy",
+      "mask_nocc": "test/mask_nocc/00043.png",
+      "mask_inpaint": "test/mask_inpaint/00043.png"
+    },
+    {
+      "out_index": 44,
+      "person_index": 352,
+      "left": "test/left/00044.png",
+      "right": "test/right/00044.png",
+      "disp": "test/disparity/00044.npy",
+      "confidence": "test/confidence/00044.npy",
+      "mask_nocc": "test/mask_nocc/00044.png",
+      "mask_inpaint": "test/mask_inpaint/00044.png"
+    },
+    {
+      "out_index": 45,
+      "person_index": 360,
+      "left": "test/left/00045.png",
+      "right": "test/right/00045.png",
+      "disp": "test/disparity/00045.npy",
+      "confidence": "test/confidence/00045.npy",
+      "mask_nocc": "test/mask_nocc/00045.png",
+      "mask_inpaint": "test/mask_inpaint/00045.png"
+    },
+    {
+      "out_index": 46,
+      "person_index": 368,
+      "left": "test/left/00046.png",
+      "right": "test/right/00046.png",
+      "disp": "test/disparity/00046.npy",
+      "confidence": "test/confidence/00046.npy",
+      "mask_nocc": "test/mask_nocc/00046.png",
+      "mask_inpaint": "test/mask_inpaint/00046.png"
+    },
+    {
+      "out_index": 47,
+      "person_index": 376,
+      "left": "test/left/00047.png",
+      "right": "test/right/00047.png",
+      "disp": "test/disparity/00047.npy",
+      "confidence": "test/confidence/00047.npy",
+      "mask_nocc": "test/mask_nocc/00047.png",
+      "mask_inpaint": "test/mask_inpaint/00047.png"
+    },
+    {
+      "out_index": 48,
+      "person_index": 384,
+      "left": "test/left/00048.png",
+      "right": "test/right/00048.png",
+      "disp": "test/disparity/00048.npy",
+      "confidence": "test/confidence/00048.npy",
+      "mask_nocc": "test/mask_nocc/00048.png",
+      "mask_inpaint": "test/mask_inpaint/00048.png"
+    },
+    {
+      "out_index": 49,
+      "person_index": 392,
+      "left": "test/left/00049.png",
+      "right": "test/right/00049.png",
+      "disp": "test/disparity/00049.npy",
+      "confidence": "test/confidence/00049.npy",
+      "mask_nocc": "test/mask_nocc/00049.png",
+      "mask_inpaint": "test/mask_inpaint/00049.png"
+    },
+    {
+      "out_index": 50,
+      "person_index": 400,
+      "left": "test/left/00050.png",
+      "right": "test/right/00050.png",
+      "disp": "test/disparity/00050.npy",
+      "confidence": "test/confidence/00050.npy",
+      "mask_nocc": "test/mask_nocc/00050.png",
+      "mask_inpaint": "test/mask_inpaint/00050.png"
+    },
+    {
+      "out_index": 51,
+      "person_index": 408,
+      "left": "test/left/00051.png",
+      "right": "test/right/00051.png",
+      "disp": "test/disparity/00051.npy",
+      "confidence": "test/confidence/00051.npy",
+      "mask_nocc": "test/mask_nocc/00051.png",
+      "mask_inpaint": "test/mask_inpaint/00051.png"
+    },
+    {
+      "out_index": 52,
+      "person_index": 416,
+      "left": "test/left/00052.png",
+      "right": "test/right/00052.png",
+      "disp": "test/disparity/00052.npy",
+      "confidence": "test/confidence/00052.npy",
+      "mask_nocc": "test/mask_nocc/00052.png",
+      "mask_inpaint": "test/mask_inpaint/00052.png"
+    },
+    {
+      "out_index": 53,
+      "person_index": 424,
+      "left": "test/left/00053.png",
+      "right": "test/right/00053.png",
+      "disp": "test/disparity/00053.npy",
+      "confidence": "test/confidence/00053.npy",
+      "mask_nocc": "test/mask_nocc/00053.png",
+      "mask_inpaint": "test/mask_inpaint/00053.png"
+    },
+    {
+      "out_index": 54,
+      "person_index": 432,
+      "left": "test/left/00054.png",
+      "right": "test/right/00054.png",
+      "disp": "test/disparity/00054.npy",
+      "confidence": "test/confidence/00054.npy",
+      "mask_nocc": "test/mask_nocc/00054.png",
+      "mask_inpaint": "test/mask_inpaint/00054.png"
+    },
+    {
+      "out_index": 55,
+      "person_index": 440,
+      "left": "test/left/00055.png",
+      "right": "test/right/00055.png",
+      "disp": "test/disparity/00055.npy",
+      "confidence": "test/confidence/00055.npy",
+      "mask_nocc": "test/mask_nocc/00055.png",
+      "mask_inpaint": "test/mask_inpaint/00055.png"
+    },
+    {
+      "out_index": 56,
+      "person_index": 448,
+      "left": "test/left/00056.png",
+      "right": "test/right/00056.png",
+      "disp": "test/disparity/00056.npy",
+      "confidence": "test/confidence/00056.npy",
+      "mask_nocc": "test/mask_nocc/00056.png",
+      "mask_inpaint": "test/mask_inpaint/00056.png"
+    },
+    {
+      "out_index": 57,
+      "person_index": 456,
+      "left": "test/left/00057.png",
+      "right": "test/right/00057.png",
+      "disp": "test/disparity/00057.npy",
+      "confidence": "test/confidence/00057.npy",
+      "mask_nocc": "test/mask_nocc/00057.png",
+      "mask_inpaint": "test/mask_inpaint/00057.png"
+    },
+    {
+      "out_index": 58,
+      "person_index": 464,
+      "left": "test/left/00058.png",
+      "right": "test/right/00058.png",
+      "disp": "test/disparity/00058.npy",
+      "confidence": "test/confidence/00058.npy",
+      "mask_nocc": "test/mask_nocc/00058.png",
+      "mask_inpaint": "test/mask_inpaint/00058.png"
+    },
+    {
+      "out_index": 59,
+      "person_index": 472,
+      "left": "test/left/00059.png",
+      "right": "test/right/00059.png",
+      "disp": "test/disparity/00059.npy",
+      "confidence": "test/confidence/00059.npy",
+      "mask_nocc": "test/mask_nocc/00059.png",
+      "mask_inpaint": "test/mask_inpaint/00059.png"
+    },
+    {
+      "out_index": 60,
+      "person_index": 480,
+      "left": "test/left/00060.png",
+      "right": "test/right/00060.png",
+      "disp": "test/disparity/00060.npy",
+      "confidence": "test/confidence/00060.npy",
+      "mask_nocc": "test/mask_nocc/00060.png",
+      "mask_inpaint": "test/mask_inpaint/00060.png"
+    },
+    {
+      "out_index": 61,
+      "person_index": 488,
+      "left": "test/left/00061.png",
+      "right": "test/right/00061.png",
+      "disp": "test/disparity/00061.npy",
+      "confidence": "test/confidence/00061.npy",
+      "mask_nocc": "test/mask_nocc/00061.png",
+      "mask_inpaint": "test/mask_inpaint/00061.png"
+    },
+    {
+      "out_index": 62,
+      "person_index": 496,
+      "left": "test/left/00062.png",
+      "right": "test/right/00062.png",
+      "disp": "test/disparity/00062.npy",
+      "confidence": "test/confidence/00062.npy",
+      "mask_nocc": "test/mask_nocc/00062.png",
+      "mask_inpaint": "test/mask_inpaint/00062.png"
+    },
+    {
+      "out_index": 63,
+      "person_index": 504,
+      "left": "test/left/00063.png",
+      "right": "test/right/00063.png",
+      "disp": "test/disparity/00063.npy",
+      "confidence": "test/confidence/00063.npy",
+      "mask_nocc": "test/mask_nocc/00063.png",
+      "mask_inpaint": "test/mask_inpaint/00063.png"
+    },
+    {
+      "out_index": 64,
+      "person_index": 512,
+      "left": "test/left/00064.png",
+      "right": "test/right/00064.png",
+      "disp": "test/disparity/00064.npy",
+      "confidence": "test/confidence/00064.npy",
+      "mask_nocc": "test/mask_nocc/00064.png",
+      "mask_inpaint": "test/mask_inpaint/00064.png"
+    },
+    {
+      "out_index": 65,
+      "person_index": 520,
+      "left": "test/left/00065.png",
+      "right": "test/right/00065.png",
+      "disp": "test/disparity/00065.npy",
+      "confidence": "test/confidence/00065.npy",
+      "mask_nocc": "test/mask_nocc/00065.png",
+      "mask_inpaint": "test/mask_inpaint/00065.png"
+    },
+    {
+      "out_index": 66,
+      "person_index": 528,
+      "left": "test/left/00066.png",
+      "right": "test/right/00066.png",
+      "disp": "test/disparity/00066.npy",
+      "confidence": "test/confidence/00066.npy",
+      "mask_nocc": "test/mask_nocc/00066.png",
+      "mask_inpaint": "test/mask_inpaint/00066.png"
+    },
+    {
+      "out_index": 67,
+      "person_index": 536,
+      "left": "test/left/00067.png",
+      "right": "test/right/00067.png",
+      "disp": "test/disparity/00067.npy",
+      "confidence": "test/confidence/00067.npy",
+      "mask_nocc": "test/mask_nocc/00067.png",
+      "mask_inpaint": "test/mask_inpaint/00067.png"
+    },
+    {
+      "out_index": 68,
+      "person_index": 544,
+      "left": "test/left/00068.png",
+      "right": "test/right/00068.png",
+      "disp": "test/disparity/00068.npy",
+      "confidence": "test/confidence/00068.npy",
+      "mask_nocc": "test/mask_nocc/00068.png",
+      "mask_inpaint": "test/mask_inpaint/00068.png"
+    },
+    {
+      "out_index": 69,
+      "person_index": 552,
+      "left": "test/left/00069.png",
+      "right": "test/right/00069.png",
+      "disp": "test/disparity/00069.npy",
+      "confidence": "test/confidence/00069.npy",
+      "mask_nocc": "test/mask_nocc/00069.png",
+      "mask_inpaint": "test/mask_inpaint/00069.png"
+    },
+    {
+      "out_index": 70,
+      "person_index": 560,
+      "left": "test/left/00070.png",
+      "right": "test/right/00070.png",
+      "disp": "test/disparity/00070.npy",
+      "confidence": "test/confidence/00070.npy",
+      "mask_nocc": "test/mask_nocc/00070.png",
+      "mask_inpaint": "test/mask_inpaint/00070.png"
+    },
+    {
+      "out_index": 71,
+      "person_index": 568,
+      "left": "test/left/00071.png",
+      "right": "test/right/00071.png",
+      "disp": "test/disparity/00071.npy",
+      "confidence": "test/confidence/00071.npy",
+      "mask_nocc": "test/mask_nocc/00071.png",
+      "mask_inpaint": "test/mask_inpaint/00071.png"
+    },
+    {
+      "out_index": 72,
+      "person_index": 576,
+      "left": "test/left/00072.png",
+      "right": "test/right/00072.png",
+      "disp": "test/disparity/00072.npy",
+      "confidence": "test/confidence/00072.npy",
+      "mask_nocc": "test/mask_nocc/00072.png",
+      "mask_inpaint": "test/mask_inpaint/00072.png"
+    },
+    {
+      "out_index": 73,
+      "person_index": 584,
+      "left": "test/left/00073.png",
+      "right": "test/right/00073.png",
+      "disp": "test/disparity/00073.npy",
+      "confidence": "test/confidence/00073.npy",
+      "mask_nocc": "test/mask_nocc/00073.png",
+      "mask_inpaint": "test/mask_inpaint/00073.png"
+    },
+    {
+      "out_index": 74,
+      "person_index": 592,
+      "left": "test/left/00074.png",
+      "right": "test/right/00074.png",
+      "disp": "test/disparity/00074.npy",
+      "confidence": "test/confidence/00074.npy",
+      "mask_nocc": "test/mask_nocc/00074.png",
+      "mask_inpaint": "test/mask_inpaint/00074.png"
+    },
+    {
+      "out_index": 75,
+      "person_index": 600,
+      "left": "test/left/00075.png",
+      "right": "test/right/00075.png",
+      "disp": "test/disparity/00075.npy",
+      "confidence": "test/confidence/00075.npy",
+      "mask_nocc": "test/mask_nocc/00075.png",
+      "mask_inpaint": "test/mask_inpaint/00075.png"
+    },
+    {
+      "out_index": 76,
+      "person_index": 608,
+      "left": "test/left/00076.png",
+      "right": "test/right/00076.png",
+      "disp": "test/disparity/00076.npy",
+      "confidence": "test/confidence/00076.npy",
+      "mask_nocc": "test/mask_nocc/00076.png",
+      "mask_inpaint": "test/mask_inpaint/00076.png"
+    },
+    {
+      "out_index": 77,
+      "person_index": 616,
+      "left": "test/left/00077.png",
+      "right": "test/right/00077.png",
+      "disp": "test/disparity/00077.npy",
+      "confidence": "test/confidence/00077.npy",
+      "mask_nocc": "test/mask_nocc/00077.png",
+      "mask_inpaint": "test/mask_inpaint/00077.png"
+    },
+    {
+      "out_index": 78,
+      "person_index": 624,
+      "left": "test/left/00078.png",
+      "right": "test/right/00078.png",
+      "disp": "test/disparity/00078.npy",
+      "confidence": "test/confidence/00078.npy",
+      "mask_nocc": "test/mask_nocc/00078.png",
+      "mask_inpaint": "test/mask_inpaint/00078.png"
+    },
+    {
+      "out_index": 79,
+      "person_index": 632,
+      "left": "test/left/00079.png",
+      "right": "test/right/00079.png",
+      "disp": "test/disparity/00079.npy",
+      "confidence": "test/confidence/00079.npy",
+      "mask_nocc": "test/mask_nocc/00079.png",
+      "mask_inpaint": "test/mask_inpaint/00079.png"
+    },
+    {
+      "out_index": 80,
+      "person_index": 640,
+      "left": "test/left/00080.png",
+      "right": "test/right/00080.png",
+      "disp": "test/disparity/00080.npy",
+      "confidence": "test/confidence/00080.npy",
+      "mask_nocc": "test/mask_nocc/00080.png",
+      "mask_inpaint": "test/mask_inpaint/00080.png"
+    },
+    {
+      "out_index": 81,
+      "person_index": 648,
+      "left": "test/left/00081.png",
+      "right": "test/right/00081.png",
+      "disp": "test/disparity/00081.npy",
+      "confidence": "test/confidence/00081.npy",
+      "mask_nocc": "test/mask_nocc/00081.png",
+      "mask_inpaint": "test/mask_inpaint/00081.png"
+    },
+    {
+      "out_index": 82,
+      "person_index": 656,
+      "left": "test/left/00082.png",
+      "right": "test/right/00082.png",
+      "disp": "test/disparity/00082.npy",
+      "confidence": "test/confidence/00082.npy",
+      "mask_nocc": "test/mask_nocc/00082.png",
+      "mask_inpaint": "test/mask_inpaint/00082.png"
+    },
+    {
+      "out_index": 83,
+      "person_index": 664,
+      "left": "test/left/00083.png",
+      "right": "test/right/00083.png",
+      "disp": "test/disparity/00083.npy",
+      "confidence": "test/confidence/00083.npy",
+      "mask_nocc": "test/mask_nocc/00083.png",
+      "mask_inpaint": "test/mask_inpaint/00083.png"
+    },
+    {
+      "out_index": 84,
+      "person_index": 672,
+      "left": "test/left/00084.png",
+      "right": "test/right/00084.png",
+      "disp": "test/disparity/00084.npy",
+      "confidence": "test/confidence/00084.npy",
+      "mask_nocc": "test/mask_nocc/00084.png",
+      "mask_inpaint": "test/mask_inpaint/00084.png"
+    },
+    {
+      "out_index": 85,
+      "person_index": 680,
+      "left": "test/left/00085.png",
+      "right": "test/right/00085.png",
+      "disp": "test/disparity/00085.npy",
+      "confidence": "test/confidence/00085.npy",
+      "mask_nocc": "test/mask_nocc/00085.png",
+      "mask_inpaint": "test/mask_inpaint/00085.png"
+    },
+    {
+      "out_index": 86,
+      "person_index": 688,
+      "left": "test/left/00086.png",
+      "right": "test/right/00086.png",
+      "disp": "test/disparity/00086.npy",
+      "confidence": "test/confidence/00086.npy",
+      "mask_nocc": "test/mask_nocc/00086.png",
+      "mask_inpaint": "test/mask_inpaint/00086.png"
+    },
+    {
+      "out_index": 87,
+      "person_index": 696,
+      "left": "test/left/00087.png",
+      "right": "test/right/00087.png",
+      "disp": "test/disparity/00087.npy",
+      "confidence": "test/confidence/00087.npy",
+      "mask_nocc": "test/mask_nocc/00087.png",
+      "mask_inpaint": "test/mask_inpaint/00087.png"
+    },
+    {
+      "out_index": 88,
+      "person_index": 704,
+      "left": "test/left/00088.png",
+      "right": "test/right/00088.png",
+      "disp": "test/disparity/00088.npy",
+      "confidence": "test/confidence/00088.npy",
+      "mask_nocc": "test/mask_nocc/00088.png",
+      "mask_inpaint": "test/mask_inpaint/00088.png"
+    },
+    {
+      "out_index": 89,
+      "person_index": 712,
+      "left": "test/left/00089.png",
+      "right": "test/right/00089.png",
+      "disp": "test/disparity/00089.npy",
+      "confidence": "test/confidence/00089.npy",
+      "mask_nocc": "test/mask_nocc/00089.png",
+      "mask_inpaint": "test/mask_inpaint/00089.png"
+    },
+    {
+      "out_index": 90,
+      "person_index": 720,
+      "left": "test/left/00090.png",
+      "right": "test/right/00090.png",
+      "disp": "test/disparity/00090.npy",
+      "confidence": "test/confidence/00090.npy",
+      "mask_nocc": "test/mask_nocc/00090.png",
+      "mask_inpaint": "test/mask_inpaint/00090.png"
+    },
+    {
+      "out_index": 91,
+      "person_index": 728,
+      "left": "test/left/00091.png",
+      "right": "test/right/00091.png",
+      "disp": "test/disparity/00091.npy",
+      "confidence": "test/confidence/00091.npy",
+      "mask_nocc": "test/mask_nocc/00091.png",
+      "mask_inpaint": "test/mask_inpaint/00091.png"
+    },
+    {
+      "out_index": 92,
+      "person_index": 736,
+      "left": "test/left/00092.png",
+      "right": "test/right/00092.png",
+      "disp": "test/disparity/00092.npy",
+      "confidence": "test/confidence/00092.npy",
+      "mask_nocc": "test/mask_nocc/00092.png",
+      "mask_inpaint": "test/mask_inpaint/00092.png"
+    },
+    {
+      "out_index": 93,
+      "person_index": 744,
+      "left": "test/left/00093.png",
+      "right": "test/right/00093.png",
+      "disp": "test/disparity/00093.npy",
+      "confidence": "test/confidence/00093.npy",
+      "mask_nocc": "test/mask_nocc/00093.png",
+      "mask_inpaint": "test/mask_inpaint/00093.png"
+    },
+    {
+      "out_index": 94,
+      "person_index": 752,
+      "left": "test/left/00094.png",
+      "right": "test/right/00094.png",
+      "disp": "test/disparity/00094.npy",
+      "confidence": "test/confidence/00094.npy",
+      "mask_nocc": "test/mask_nocc/00094.png",
+      "mask_inpaint": "test/mask_inpaint/00094.png"
+    },
+    {
+      "out_index": 95,
+      "person_index": 760,
+      "left": "test/left/00095.png",
+      "right": "test/right/00095.png",
+      "disp": "test/disparity/00095.npy",
+      "confidence": "test/confidence/00095.npy",
+      "mask_nocc": "test/mask_nocc/00095.png",
+      "mask_inpaint": "test/mask_inpaint/00095.png"
+    },
+    {
+      "out_index": 96,
+      "person_index": 768,
+      "left": "test/left/00096.png",
+      "right": "test/right/00096.png",
+      "disp": "test/disparity/00096.npy",
+      "confidence": "test/confidence/00096.npy",
+      "mask_nocc": "test/mask_nocc/00096.png",
+      "mask_inpaint": "test/mask_inpaint/00096.png"
+    },
+    {
+      "out_index": 97,
+      "person_index": 776,
+      "left": "test/left/00097.png",
+      "right": "test/right/00097.png",
+      "disp": "test/disparity/00097.npy",
+      "confidence": "test/confidence/00097.npy",
+      "mask_nocc": "test/mask_nocc/00097.png",
+      "mask_inpaint": "test/mask_inpaint/00097.png"
+    },
+    {
+      "out_index": 98,
+      "person_index": 784,
+      "left": "test/left/00098.png",
+      "right": "test/right/00098.png",
+      "disp": "test/disparity/00098.npy",
+      "confidence": "test/confidence/00098.npy",
+      "mask_nocc": "test/mask_nocc/00098.png",
+      "mask_inpaint": "test/mask_inpaint/00098.png"
+    },
+    {
+      "out_index": 99,
+      "person_index": 792,
+      "left": "test/left/00099.png",
+      "right": "test/right/00099.png",
+      "disp": "test/disparity/00099.npy",
+      "confidence": "test/confidence/00099.npy",
+      "mask_nocc": "test/mask_nocc/00099.png",
+      "mask_inpaint": "test/mask_inpaint/00099.png"
+    },
+    {
+      "out_index": 100,
+      "person_index": 800,
+      "left": "test/left/00100.png",
+      "right": "test/right/00100.png",
+      "disp": "test/disparity/00100.npy",
+      "confidence": "test/confidence/00100.npy",
+      "mask_nocc": "test/mask_nocc/00100.png",
+      "mask_inpaint": "test/mask_inpaint/00100.png"
+    },
+    {
+      "out_index": 101,
+      "person_index": 808,
+      "left": "test/left/00101.png",
+      "right": "test/right/00101.png",
+      "disp": "test/disparity/00101.npy",
+      "confidence": "test/confidence/00101.npy",
+      "mask_nocc": "test/mask_nocc/00101.png",
+      "mask_inpaint": "test/mask_inpaint/00101.png"
+    },
+    {
+      "out_index": 102,
+      "person_index": 816,
+      "left": "test/left/00102.png",
+      "right": "test/right/00102.png",
+      "disp": "test/disparity/00102.npy",
+      "confidence": "test/confidence/00102.npy",
+      "mask_nocc": "test/mask_nocc/00102.png",
+      "mask_inpaint": "test/mask_inpaint/00102.png"
+    },
+    {
+      "out_index": 103,
+      "person_index": 824,
+      "left": "test/left/00103.png",
+      "right": "test/right/00103.png",
+      "disp": "test/disparity/00103.npy",
+      "confidence": "test/confidence/00103.npy",
+      "mask_nocc": "test/mask_nocc/00103.png",
+      "mask_inpaint": "test/mask_inpaint/00103.png"
+    },
+    {
+      "out_index": 104,
+      "person_index": 832,
+      "left": "test/left/00104.png",
+      "right": "test/right/00104.png",
+      "disp": "test/disparity/00104.npy",
+      "confidence": "test/confidence/00104.npy",
+      "mask_nocc": "test/mask_nocc/00104.png",
+      "mask_inpaint": "test/mask_inpaint/00104.png"
+    },
+    {
+      "out_index": 105,
+      "person_index": 840,
+      "left": "test/left/00105.png",
+      "right": "test/right/00105.png",
+      "disp": "test/disparity/00105.npy",
+      "confidence": "test/confidence/00105.npy",
+      "mask_nocc": "test/mask_nocc/00105.png",
+      "mask_inpaint": "test/mask_inpaint/00105.png"
+    },
+    {
+      "out_index": 106,
+      "person_index": 848,
+      "left": "test/left/00106.png",
+      "right": "test/right/00106.png",
+      "disp": "test/disparity/00106.npy",
+      "confidence": "test/confidence/00106.npy",
+      "mask_nocc": "test/mask_nocc/00106.png",
+      "mask_inpaint": "test/mask_inpaint/00106.png"
+    },
+    {
+      "out_index": 107,
+      "person_index": 856,
+      "left": "test/left/00107.png",
+      "right": "test/right/00107.png",
+      "disp": "test/disparity/00107.npy",
+      "confidence": "test/confidence/00107.npy",
+      "mask_nocc": "test/mask_nocc/00107.png",
+      "mask_inpaint": "test/mask_inpaint/00107.png"
+    },
+    {
+      "out_index": 108,
+      "person_index": 864,
+      "left": "test/left/00108.png",
+      "right": "test/right/00108.png",
+      "disp": "test/disparity/00108.npy",
+      "confidence": "test/confidence/00108.npy",
+      "mask_nocc": "test/mask_nocc/00108.png",
+      "mask_inpaint": "test/mask_inpaint/00108.png"
+    },
+    {
+      "out_index": 109,
+      "person_index": 872,
+      "left": "test/left/00109.png",
+      "right": "test/right/00109.png",
+      "disp": "test/disparity/00109.npy",
+      "confidence": "test/confidence/00109.npy",
+      "mask_nocc": "test/mask_nocc/00109.png",
+      "mask_inpaint": "test/mask_inpaint/00109.png"
+    },
+    {
+      "out_index": 110,
+      "person_index": 880,
+      "left": "test/left/00110.png",
+      "right": "test/right/00110.png",
+      "disp": "test/disparity/00110.npy",
+      "confidence": "test/confidence/00110.npy",
+      "mask_nocc": "test/mask_nocc/00110.png",
+      "mask_inpaint": "test/mask_inpaint/00110.png"
+    },
+    {
+      "out_index": 111,
+      "person_index": 888,
+      "left": "test/left/00111.png",
+      "right": "test/right/00111.png",
+      "disp": "test/disparity/00111.npy",
+      "confidence": "test/confidence/00111.npy",
+      "mask_nocc": "test/mask_nocc/00111.png",
+      "mask_inpaint": "test/mask_inpaint/00111.png"
+    },
+    {
+      "out_index": 112,
+      "person_index": 896,
+      "left": "test/left/00112.png",
+      "right": "test/right/00112.png",
+      "disp": "test/disparity/00112.npy",
+      "confidence": "test/confidence/00112.npy",
+      "mask_nocc": "test/mask_nocc/00112.png",
+      "mask_inpaint": "test/mask_inpaint/00112.png"
+    },
+    {
+      "out_index": 113,
+      "person_index": 904,
+      "left": "test/left/00113.png",
+      "right": "test/right/00113.png",
+      "disp": "test/disparity/00113.npy",
+      "confidence": "test/confidence/00113.npy",
+      "mask_nocc": "test/mask_nocc/00113.png",
+      "mask_inpaint": "test/mask_inpaint/00113.png"
+    },
+    {
+      "out_index": 114,
+      "person_index": 912,
+      "left": "test/left/00114.png",
+      "right": "test/right/00114.png",
+      "disp": "test/disparity/00114.npy",
+      "confidence": "test/confidence/00114.npy",
+      "mask_nocc": "test/mask_nocc/00114.png",
+      "mask_inpaint": "test/mask_inpaint/00114.png"
+    },
+    {
+      "out_index": 115,
+      "person_index": 920,
+      "left": "test/left/00115.png",
+      "right": "test/right/00115.png",
+      "disp": "test/disparity/00115.npy",
+      "confidence": "test/confidence/00115.npy",
+      "mask_nocc": "test/mask_nocc/00115.png",
+      "mask_inpaint": "test/mask_inpaint/00115.png"
+    },
+    {
+      "out_index": 116,
+      "person_index": 928,
+      "left": "test/left/00116.png",
+      "right": "test/right/00116.png",
+      "disp": "test/disparity/00116.npy",
+      "confidence": "test/confidence/00116.npy",
+      "mask_nocc": "test/mask_nocc/00116.png",
+      "mask_inpaint": "test/mask_inpaint/00116.png"
+    },
+    {
+      "out_index": 117,
+      "person_index": 936,
+      "left": "test/left/00117.png",
+      "right": "test/right/00117.png",
+      "disp": "test/disparity/00117.npy",
+      "confidence": "test/confidence/00117.npy",
+      "mask_nocc": "test/mask_nocc/00117.png",
+      "mask_inpaint": "test/mask_inpaint/00117.png"
+    },
+    {
+      "out_index": 118,
+      "person_index": 944,
+      "left": "test/left/00118.png",
+      "right": "test/right/00118.png",
+      "disp": "test/disparity/00118.npy",
+      "confidence": "test/confidence/00118.npy",
+      "mask_nocc": "test/mask_nocc/00118.png",
+      "mask_inpaint": "test/mask_inpaint/00118.png"
+    },
+    {
+      "out_index": 119,
+      "person_index": 952,
+      "left": "test/left/00119.png",
+      "right": "test/right/00119.png",
+      "disp": "test/disparity/00119.npy",
+      "confidence": "test/confidence/00119.npy",
+      "mask_nocc": "test/mask_nocc/00119.png",
+      "mask_inpaint": "test/mask_inpaint/00119.png"
+    },
+    {
+      "out_index": 120,
+      "person_index": 960,
+      "left": "test/left/00120.png",
+      "right": "test/right/00120.png",
+      "disp": "test/disparity/00120.npy",
+      "confidence": "test/confidence/00120.npy",
+      "mask_nocc": "test/mask_nocc/00120.png",
+      "mask_inpaint": "test/mask_inpaint/00120.png"
+    },
+    {
+      "out_index": 121,
+      "person_index": 968,
+      "left": "test/left/00121.png",
+      "right": "test/right/00121.png",
+      "disp": "test/disparity/00121.npy",
+      "confidence": "test/confidence/00121.npy",
+      "mask_nocc": "test/mask_nocc/00121.png",
+      "mask_inpaint": "test/mask_inpaint/00121.png"
+    },
+    {
+      "out_index": 122,
+      "person_index": 976,
+      "left": "test/left/00122.png",
+      "right": "test/right/00122.png",
+      "disp": "test/disparity/00122.npy",
+      "confidence": "test/confidence/00122.npy",
+      "mask_nocc": "test/mask_nocc/00122.png",
+      "mask_inpaint": "test/mask_inpaint/00122.png"
+    },
+    {
+      "out_index": 123,
+      "person_index": 984,
+      "left": "test/left/00123.png",
+      "right": "test/right/00123.png",
+      "disp": "test/disparity/00123.npy",
+      "confidence": "test/confidence/00123.npy",
+      "mask_nocc": "test/mask_nocc/00123.png",
+      "mask_inpaint": "test/mask_inpaint/00123.png"
+    },
+    {
+      "out_index": 124,
+      "person_index": 992,
+      "left": "test/left/00124.png",
+      "right": "test/right/00124.png",
+      "disp": "test/disparity/00124.npy",
+      "confidence": "test/confidence/00124.npy",
+      "mask_nocc": "test/mask_nocc/00124.png",
+      "mask_inpaint": "test/mask_inpaint/00124.png"
+    },
+    {
+      "out_index": 125,
+      "person_index": 1000,
+      "left": "test/left/00125.png",
+      "right": "test/right/00125.png",
+      "disp": "test/disparity/00125.npy",
+      "confidence": "test/confidence/00125.npy",
+      "mask_nocc": "test/mask_nocc/00125.png",
+      "mask_inpaint": "test/mask_inpaint/00125.png"
+    },
+    {
+      "out_index": 126,
+      "person_index": 1008,
+      "left": "test/left/00126.png",
+      "right": "test/right/00126.png",
+      "disp": "test/disparity/00126.npy",
+      "confidence": "test/confidence/00126.npy",
+      "mask_nocc": "test/mask_nocc/00126.png",
+      "mask_inpaint": "test/mask_inpaint/00126.png"
+    },
+    {
+      "out_index": 127,
+      "person_index": 1016,
+      "left": "test/left/00127.png",
+      "right": "test/right/00127.png",
+      "disp": "test/disparity/00127.npy",
+      "confidence": "test/confidence/00127.npy",
+      "mask_nocc": "test/mask_nocc/00127.png",
+      "mask_inpaint": "test/mask_inpaint/00127.png"
+    },
+    {
+      "out_index": 128,
+      "person_index": 1024,
+      "left": "test/left/00128.png",
+      "right": "test/right/00128.png",
+      "disp": "test/disparity/00128.npy",
+      "confidence": "test/confidence/00128.npy",
+      "mask_nocc": "test/mask_nocc/00128.png",
+      "mask_inpaint": "test/mask_inpaint/00128.png"
+    },
+    {
+      "out_index": 129,
+      "person_index": 1032,
+      "left": "test/left/00129.png",
+      "right": "test/right/00129.png",
+      "disp": "test/disparity/00129.npy",
+      "confidence": "test/confidence/00129.npy",
+      "mask_nocc": "test/mask_nocc/00129.png",
+      "mask_inpaint": "test/mask_inpaint/00129.png"
+    },
+    {
+      "out_index": 130,
+      "person_index": 1040,
+      "left": "test/left/00130.png",
+      "right": "test/right/00130.png",
+      "disp": "test/disparity/00130.npy",
+      "confidence": "test/confidence/00130.npy",
+      "mask_nocc": "test/mask_nocc/00130.png",
+      "mask_inpaint": "test/mask_inpaint/00130.png"
+    },
+    {
+      "out_index": 131,
+      "person_index": 1048,
+      "left": "test/left/00131.png",
+      "right": "test/right/00131.png",
+      "disp": "test/disparity/00131.npy",
+      "confidence": "test/confidence/00131.npy",
+      "mask_nocc": "test/mask_nocc/00131.png",
+      "mask_inpaint": "test/mask_inpaint/00131.png"
+    },
+    {
+      "out_index": 132,
+      "person_index": 1056,
+      "left": "test/left/00132.png",
+      "right": "test/right/00132.png",
+      "disp": "test/disparity/00132.npy",
+      "confidence": "test/confidence/00132.npy",
+      "mask_nocc": "test/mask_nocc/00132.png",
+      "mask_inpaint": "test/mask_inpaint/00132.png"
+    },
+    {
+      "out_index": 133,
+      "person_index": 1064,
+      "left": "test/left/00133.png",
+      "right": "test/right/00133.png",
+      "disp": "test/disparity/00133.npy",
+      "confidence": "test/confidence/00133.npy",
+      "mask_nocc": "test/mask_nocc/00133.png",
+      "mask_inpaint": "test/mask_inpaint/00133.png"
+    },
+    {
+      "out_index": 134,
+      "person_index": 1072,
+      "left": "test/left/00134.png",
+      "right": "test/right/00134.png",
+      "disp": "test/disparity/00134.npy",
+      "confidence": "test/confidence/00134.npy",
+      "mask_nocc": "test/mask_nocc/00134.png",
+      "mask_inpaint": "test/mask_inpaint/00134.png"
+    },
+    {
+      "out_index": 135,
+      "person_index": 1080,
+      "left": "test/left/00135.png",
+      "right": "test/right/00135.png",
+      "disp": "test/disparity/00135.npy",
+      "confidence": "test/confidence/00135.npy",
+      "mask_nocc": "test/mask_nocc/00135.png",
+      "mask_inpaint": "test/mask_inpaint/00135.png"
+    },
+    {
+      "out_index": 136,
+      "person_index": 1088,
+      "left": "test/left/00136.png",
+      "right": "test/right/00136.png",
+      "disp": "test/disparity/00136.npy",
+      "confidence": "test/confidence/00136.npy",
+      "mask_nocc": "test/mask_nocc/00136.png",
+      "mask_inpaint": "test/mask_inpaint/00136.png"
+    },
+    {
+      "out_index": 137,
+      "person_index": 1096,
+      "left": "test/left/00137.png",
+      "right": "test/right/00137.png",
+      "disp": "test/disparity/00137.npy",
+      "confidence": "test/confidence/00137.npy",
+      "mask_nocc": "test/mask_nocc/00137.png",
+      "mask_inpaint": "test/mask_inpaint/00137.png"
+    },
+    {
+      "out_index": 138,
+      "person_index": 1104,
+      "left": "test/left/00138.png",
+      "right": "test/right/00138.png",
+      "disp": "test/disparity/00138.npy",
+      "confidence": "test/confidence/00138.npy",
+      "mask_nocc": "test/mask_nocc/00138.png",
+      "mask_inpaint": "test/mask_inpaint/00138.png"
+    },
+    {
+      "out_index": 139,
+      "person_index": 1112,
+      "left": "test/left/00139.png",
+      "right": "test/right/00139.png",
+      "disp": "test/disparity/00139.npy",
+      "confidence": "test/confidence/00139.npy",
+      "mask_nocc": "test/mask_nocc/00139.png",
+      "mask_inpaint": "test/mask_inpaint/00139.png"
+    },
+    {
+      "out_index": 140,
+      "person_index": 1120,
+      "left": "test/left/00140.png",
+      "right": "test/right/00140.png",
+      "disp": "test/disparity/00140.npy",
+      "confidence": "test/confidence/00140.npy",
+      "mask_nocc": "test/mask_nocc/00140.png",
+      "mask_inpaint": "test/mask_inpaint/00140.png"
+    },
+    {
+      "out_index": 141,
+      "person_index": 1128,
+      "left": "test/left/00141.png",
+      "right": "test/right/00141.png",
+      "disp": "test/disparity/00141.npy",
+      "confidence": "test/confidence/00141.npy",
+      "mask_nocc": "test/mask_nocc/00141.png",
+      "mask_inpaint": "test/mask_inpaint/00141.png"
+    },
+    {
+      "out_index": 142,
+      "person_index": 1136,
+      "left": "test/left/00142.png",
+      "right": "test/right/00142.png",
+      "disp": "test/disparity/00142.npy",
+      "confidence": "test/confidence/00142.npy",
+      "mask_nocc": "test/mask_nocc/00142.png",
+      "mask_inpaint": "test/mask_inpaint/00142.png"
+    },
+    {
+      "out_index": 143,
+      "person_index": 1144,
+      "left": "test/left/00143.png",
+      "right": "test/right/00143.png",
+      "disp": "test/disparity/00143.npy",
+      "confidence": "test/confidence/00143.npy",
+      "mask_nocc": "test/mask_nocc/00143.png",
+      "mask_inpaint": "test/mask_inpaint/00143.png"
+    },
+    {
+      "out_index": 144,
+      "person_index": 1152,
+      "left": "test/left/00144.png",
+      "right": "test/right/00144.png",
+      "disp": "test/disparity/00144.npy",
+      "confidence": "test/confidence/00144.npy",
+      "mask_nocc": "test/mask_nocc/00144.png",
+      "mask_inpaint": "test/mask_inpaint/00144.png"
+    },
+    {
+      "out_index": 145,
+      "person_index": 1160,
+      "left": "test/left/00145.png",
+      "right": "test/right/00145.png",
+      "disp": "test/disparity/00145.npy",
+      "confidence": "test/confidence/00145.npy",
+      "mask_nocc": "test/mask_nocc/00145.png",
+      "mask_inpaint": "test/mask_inpaint/00145.png"
+    },
+    {
+      "out_index": 146,
+      "person_index": 1168,
+      "left": "test/left/00146.png",
+      "right": "test/right/00146.png",
+      "disp": "test/disparity/00146.npy",
+      "confidence": "test/confidence/00146.npy",
+      "mask_nocc": "test/mask_nocc/00146.png",
+      "mask_inpaint": "test/mask_inpaint/00146.png"
+    },
+    {
+      "out_index": 147,
+      "person_index": 1176,
+      "left": "test/left/00147.png",
+      "right": "test/right/00147.png",
+      "disp": "test/disparity/00147.npy",
+      "confidence": "test/confidence/00147.npy",
+      "mask_nocc": "test/mask_nocc/00147.png",
+      "mask_inpaint": "test/mask_inpaint/00147.png"
+    },
+    {
+      "out_index": 148,
+      "person_index": 1184,
+      "left": "test/left/00148.png",
+      "right": "test/right/00148.png",
+      "disp": "test/disparity/00148.npy",
+      "confidence": "test/confidence/00148.npy",
+      "mask_nocc": "test/mask_nocc/00148.png",
+      "mask_inpaint": "test/mask_inpaint/00148.png"
+    },
+    {
+      "out_index": 149,
+      "person_index": 1192,
+      "left": "test/left/00149.png",
+      "right": "test/right/00149.png",
+      "disp": "test/disparity/00149.npy",
+      "confidence": "test/confidence/00149.npy",
+      "mask_nocc": "test/mask_nocc/00149.png",
+      "mask_inpaint": "test/mask_inpaint/00149.png"
+    },
+    {
+      "out_index": 150,
+      "person_index": 1200,
+      "left": "test/left/00150.png",
+      "right": "test/right/00150.png",
+      "disp": "test/disparity/00150.npy",
+      "confidence": "test/confidence/00150.npy",
+      "mask_nocc": "test/mask_nocc/00150.png",
+      "mask_inpaint": "test/mask_inpaint/00150.png"
+    },
+    {
+      "out_index": 151,
+      "person_index": 1208,
+      "left": "test/left/00151.png",
+      "right": "test/right/00151.png",
+      "disp": "test/disparity/00151.npy",
+      "confidence": "test/confidence/00151.npy",
+      "mask_nocc": "test/mask_nocc/00151.png",
+      "mask_inpaint": "test/mask_inpaint/00151.png"
+    },
+    {
+      "out_index": 152,
+      "person_index": 1216,
+      "left": "test/left/00152.png",
+      "right": "test/right/00152.png",
+      "disp": "test/disparity/00152.npy",
+      "confidence": "test/confidence/00152.npy",
+      "mask_nocc": "test/mask_nocc/00152.png",
+      "mask_inpaint": "test/mask_inpaint/00152.png"
+    },
+    {
+      "out_index": 153,
+      "person_index": 1224,
+      "left": "test/left/00153.png",
+      "right": "test/right/00153.png",
+      "disp": "test/disparity/00153.npy",
+      "confidence": "test/confidence/00153.npy",
+      "mask_nocc": "test/mask_nocc/00153.png",
+      "mask_inpaint": "test/mask_inpaint/00153.png"
+    },
+    {
+      "out_index": 154,
+      "person_index": 1232,
+      "left": "test/left/00154.png",
+      "right": "test/right/00154.png",
+      "disp": "test/disparity/00154.npy",
+      "confidence": "test/confidence/00154.npy",
+      "mask_nocc": "test/mask_nocc/00154.png",
+      "mask_inpaint": "test/mask_inpaint/00154.png"
+    },
+    {
+      "out_index": 155,
+      "person_index": 1240,
+      "left": "test/left/00155.png",
+      "right": "test/right/00155.png",
+      "disp": "test/disparity/00155.npy",
+      "confidence": "test/confidence/00155.npy",
+      "mask_nocc": "test/mask_nocc/00155.png",
+      "mask_inpaint": "test/mask_inpaint/00155.png"
+    },
+    {
+      "out_index": 156,
+      "person_index": 1248,
+      "left": "test/left/00156.png",
+      "right": "test/right/00156.png",
+      "disp": "test/disparity/00156.npy",
+      "confidence": "test/confidence/00156.npy",
+      "mask_nocc": "test/mask_nocc/00156.png",
+      "mask_inpaint": "test/mask_inpaint/00156.png"
+    },
+    {
+      "out_index": 157,
+      "person_index": 1256,
+      "left": "test/left/00157.png",
+      "right": "test/right/00157.png",
+      "disp": "test/disparity/00157.npy",
+      "confidence": "test/confidence/00157.npy",
+      "mask_nocc": "test/mask_nocc/00157.png",
+      "mask_inpaint": "test/mask_inpaint/00157.png"
+    },
+    {
+      "out_index": 158,
+      "person_index": 1264,
+      "left": "test/left/00158.png",
+      "right": "test/right/00158.png",
+      "disp": "test/disparity/00158.npy",
+      "confidence": "test/confidence/00158.npy",
+      "mask_nocc": "test/mask_nocc/00158.png",
+      "mask_inpaint": "test/mask_inpaint/00158.png"
+    },
+    {
+      "out_index": 159,
+      "person_index": 1272,
+      "left": "test/left/00159.png",
+      "right": "test/right/00159.png",
+      "disp": "test/disparity/00159.npy",
+      "confidence": "test/confidence/00159.npy",
+      "mask_nocc": "test/mask_nocc/00159.png",
+      "mask_inpaint": "test/mask_inpaint/00159.png"
+    },
+    {
+      "out_index": 160,
+      "person_index": 1280,
+      "left": "test/left/00160.png",
+      "right": "test/right/00160.png",
+      "disp": "test/disparity/00160.npy",
+      "confidence": "test/confidence/00160.npy",
+      "mask_nocc": "test/mask_nocc/00160.png",
+      "mask_inpaint": "test/mask_inpaint/00160.png"
+    },
+    {
+      "out_index": 161,
+      "person_index": 1288,
+      "left": "test/left/00161.png",
+      "right": "test/right/00161.png",
+      "disp": "test/disparity/00161.npy",
+      "confidence": "test/confidence/00161.npy",
+      "mask_nocc": "test/mask_nocc/00161.png",
+      "mask_inpaint": "test/mask_inpaint/00161.png"
+    },
+    {
+      "out_index": 162,
+      "person_index": 1296,
+      "left": "test/left/00162.png",
+      "right": "test/right/00162.png",
+      "disp": "test/disparity/00162.npy",
+      "confidence": "test/confidence/00162.npy",
+      "mask_nocc": "test/mask_nocc/00162.png",
+      "mask_inpaint": "test/mask_inpaint/00162.png"
+    },
+    {
+      "out_index": 163,
+      "person_index": 1304,
+      "left": "test/left/00163.png",
+      "right": "test/right/00163.png",
+      "disp": "test/disparity/00163.npy",
+      "confidence": "test/confidence/00163.npy",
+      "mask_nocc": "test/mask_nocc/00163.png",
+      "mask_inpaint": "test/mask_inpaint/00163.png"
+    },
+    {
+      "out_index": 164,
+      "person_index": 1312,
+      "left": "test/left/00164.png",
+      "right": "test/right/00164.png",
+      "disp": "test/disparity/00164.npy",
+      "confidence": "test/confidence/00164.npy",
+      "mask_nocc": "test/mask_nocc/00164.png",
+      "mask_inpaint": "test/mask_inpaint/00164.png"
+    },
+    {
+      "out_index": 165,
+      "person_index": 1320,
+      "left": "test/left/00165.png",
+      "right": "test/right/00165.png",
+      "disp": "test/disparity/00165.npy",
+      "confidence": "test/confidence/00165.npy",
+      "mask_nocc": "test/mask_nocc/00165.png",
+      "mask_inpaint": "test/mask_inpaint/00165.png"
+    },
+    {
+      "out_index": 166,
+      "person_index": 1328,
+      "left": "test/left/00166.png",
+      "right": "test/right/00166.png",
+      "disp": "test/disparity/00166.npy",
+      "confidence": "test/confidence/00166.npy",
+      "mask_nocc": "test/mask_nocc/00166.png",
+      "mask_inpaint": "test/mask_inpaint/00166.png"
+    },
+    {
+      "out_index": 167,
+      "person_index": 1336,
+      "left": "test/left/00167.png",
+      "right": "test/right/00167.png",
+      "disp": "test/disparity/00167.npy",
+      "confidence": "test/confidence/00167.npy",
+      "mask_nocc": "test/mask_nocc/00167.png",
+      "mask_inpaint": "test/mask_inpaint/00167.png"
+    },
+    {
+      "out_index": 168,
+      "person_index": 1344,
+      "left": "test/left/00168.png",
+      "right": "test/right/00168.png",
+      "disp": "test/disparity/00168.npy",
+      "confidence": "test/confidence/00168.npy",
+      "mask_nocc": "test/mask_nocc/00168.png",
+      "mask_inpaint": "test/mask_inpaint/00168.png"
+    },
+    {
+      "out_index": 169,
+      "person_index": 1352,
+      "left": "test/left/00169.png",
+      "right": "test/right/00169.png",
+      "disp": "test/disparity/00169.npy",
+      "confidence": "test/confidence/00169.npy",
+      "mask_nocc": "test/mask_nocc/00169.png",
+      "mask_inpaint": "test/mask_inpaint/00169.png"
+    },
+    {
+      "out_index": 170,
+      "person_index": 1360,
+      "left": "test/left/00170.png",
+      "right": "test/right/00170.png",
+      "disp": "test/disparity/00170.npy",
+      "confidence": "test/confidence/00170.npy",
+      "mask_nocc": "test/mask_nocc/00170.png",
+      "mask_inpaint": "test/mask_inpaint/00170.png"
+    },
+    {
+      "out_index": 171,
+      "person_index": 1368,
+      "left": "test/left/00171.png",
+      "right": "test/right/00171.png",
+      "disp": "test/disparity/00171.npy",
+      "confidence": "test/confidence/00171.npy",
+      "mask_nocc": "test/mask_nocc/00171.png",
+      "mask_inpaint": "test/mask_inpaint/00171.png"
+    },
+    {
+      "out_index": 172,
+      "person_index": 1376,
+      "left": "test/left/00172.png",
+      "right": "test/right/00172.png",
+      "disp": "test/disparity/00172.npy",
+      "confidence": "test/confidence/00172.npy",
+      "mask_nocc": "test/mask_nocc/00172.png",
+      "mask_inpaint": "test/mask_inpaint/00172.png"
+    },
+    {
+      "out_index": 173,
+      "person_index": 1384,
+      "left": "test/left/00173.png",
+      "right": "test/right/00173.png",
+      "disp": "test/disparity/00173.npy",
+      "confidence": "test/confidence/00173.npy",
+      "mask_nocc": "test/mask_nocc/00173.png",
+      "mask_inpaint": "test/mask_inpaint/00173.png"
+    },
+    {
+      "out_index": 174,
+      "person_index": 1392,
+      "left": "test/left/00174.png",
+      "right": "test/right/00174.png",
+      "disp": "test/disparity/00174.npy",
+      "confidence": "test/confidence/00174.npy",
+      "mask_nocc": "test/mask_nocc/00174.png",
+      "mask_inpaint": "test/mask_inpaint/00174.png"
+    },
+    {
+      "out_index": 175,
+      "person_index": 1400,
+      "left": "test/left/00175.png",
+      "right": "test/right/00175.png",
+      "disp": "test/disparity/00175.npy",
+      "confidence": "test/confidence/00175.npy",
+      "mask_nocc": "test/mask_nocc/00175.png",
+      "mask_inpaint": "test/mask_inpaint/00175.png"
+    },
+    {
+      "out_index": 176,
+      "person_index": 1408,
+      "left": "test/left/00176.png",
+      "right": "test/right/00176.png",
+      "disp": "test/disparity/00176.npy",
+      "confidence": "test/confidence/00176.npy",
+      "mask_nocc": "test/mask_nocc/00176.png",
+      "mask_inpaint": "test/mask_inpaint/00176.png"
+    },
+    {
+      "out_index": 177,
+      "person_index": 1416,
+      "left": "test/left/00177.png",
+      "right": "test/right/00177.png",
+      "disp": "test/disparity/00177.npy",
+      "confidence": "test/confidence/00177.npy",
+      "mask_nocc": "test/mask_nocc/00177.png",
+      "mask_inpaint": "test/mask_inpaint/00177.png"
+    },
+    {
+      "out_index": 178,
+      "person_index": 1424,
+      "left": "test/left/00178.png",
+      "right": "test/right/00178.png",
+      "disp": "test/disparity/00178.npy",
+      "confidence": "test/confidence/00178.npy",
+      "mask_nocc": "test/mask_nocc/00178.png",
+      "mask_inpaint": "test/mask_inpaint/00178.png"
+    },
+    {
+      "out_index": 179,
+      "person_index": 1432,
+      "left": "test/left/00179.png",
+      "right": "test/right/00179.png",
+      "disp": "test/disparity/00179.npy",
+      "confidence": "test/confidence/00179.npy",
+      "mask_nocc": "test/mask_nocc/00179.png",
+      "mask_inpaint": "test/mask_inpaint/00179.png"
+    },
+    {
+      "out_index": 180,
+      "person_index": 1440,
+      "left": "test/left/00180.png",
+      "right": "test/right/00180.png",
+      "disp": "test/disparity/00180.npy",
+      "confidence": "test/confidence/00180.npy",
+      "mask_nocc": "test/mask_nocc/00180.png",
+      "mask_inpaint": "test/mask_inpaint/00180.png"
+    },
+    {
+      "out_index": 181,
+      "person_index": 1448,
+      "left": "test/left/00181.png",
+      "right": "test/right/00181.png",
+      "disp": "test/disparity/00181.npy",
+      "confidence": "test/confidence/00181.npy",
+      "mask_nocc": "test/mask_nocc/00181.png",
+      "mask_inpaint": "test/mask_inpaint/00181.png"
+    },
+    {
+      "out_index": 182,
+      "person_index": 1456,
+      "left": "test/left/00182.png",
+      "right": "test/right/00182.png",
+      "disp": "test/disparity/00182.npy",
+      "confidence": "test/confidence/00182.npy",
+      "mask_nocc": "test/mask_nocc/00182.png",
+      "mask_inpaint": "test/mask_inpaint/00182.png"
+    },
+    {
+      "out_index": 183,
+      "person_index": 1464,
+      "left": "test/left/00183.png",
+      "right": "test/right/00183.png",
+      "disp": "test/disparity/00183.npy",
+      "confidence": "test/confidence/00183.npy",
+      "mask_nocc": "test/mask_nocc/00183.png",
+      "mask_inpaint": "test/mask_inpaint/00183.png"
+    },
+    {
+      "out_index": 184,
+      "person_index": 1472,
+      "left": "test/left/00184.png",
+      "right": "test/right/00184.png",
+      "disp": "test/disparity/00184.npy",
+      "confidence": "test/confidence/00184.npy",
+      "mask_nocc": "test/mask_nocc/00184.png",
+      "mask_inpaint": "test/mask_inpaint/00184.png"
+    },
+    {
+      "out_index": 185,
+      "person_index": 1480,
+      "left": "test/left/00185.png",
+      "right": "test/right/00185.png",
+      "disp": "test/disparity/00185.npy",
+      "confidence": "test/confidence/00185.npy",
+      "mask_nocc": "test/mask_nocc/00185.png",
+      "mask_inpaint": "test/mask_inpaint/00185.png"
+    },
+    {
+      "out_index": 186,
+      "person_index": 1488,
+      "left": "test/left/00186.png",
+      "right": "test/right/00186.png",
+      "disp": "test/disparity/00186.npy",
+      "confidence": "test/confidence/00186.npy",
+      "mask_nocc": "test/mask_nocc/00186.png",
+      "mask_inpaint": "test/mask_inpaint/00186.png"
+    },
+    {
+      "out_index": 187,
+      "person_index": 1496,
+      "left": "test/left/00187.png",
+      "right": "test/right/00187.png",
+      "disp": "test/disparity/00187.npy",
+      "confidence": "test/confidence/00187.npy",
+      "mask_nocc": "test/mask_nocc/00187.png",
+      "mask_inpaint": "test/mask_inpaint/00187.png"
+    },
+    {
+      "out_index": 188,
+      "person_index": 1504,
+      "left": "test/left/00188.png",
+      "right": "test/right/00188.png",
+      "disp": "test/disparity/00188.npy",
+      "confidence": "test/confidence/00188.npy",
+      "mask_nocc": "test/mask_nocc/00188.png",
+      "mask_inpaint": "test/mask_inpaint/00188.png"
+    },
+    {
+      "out_index": 189,
+      "person_index": 1512,
+      "left": "test/left/00189.png",
+      "right": "test/right/00189.png",
+      "disp": "test/disparity/00189.npy",
+      "confidence": "test/confidence/00189.npy",
+      "mask_nocc": "test/mask_nocc/00189.png",
+      "mask_inpaint": "test/mask_inpaint/00189.png"
+    },
+    {
+      "out_index": 190,
+      "person_index": 1520,
+      "left": "test/left/00190.png",
+      "right": "test/right/00190.png",
+      "disp": "test/disparity/00190.npy",
+      "confidence": "test/confidence/00190.npy",
+      "mask_nocc": "test/mask_nocc/00190.png",
+      "mask_inpaint": "test/mask_inpaint/00190.png"
+    },
+    {
+      "out_index": 191,
+      "person_index": 1528,
+      "left": "test/left/00191.png",
+      "right": "test/right/00191.png",
+      "disp": "test/disparity/00191.npy",
+      "confidence": "test/confidence/00191.npy",
+      "mask_nocc": "test/mask_nocc/00191.png",
+      "mask_inpaint": "test/mask_inpaint/00191.png"
+    },
+    {
+      "out_index": 192,
+      "person_index": 1536,
+      "left": "test/left/00192.png",
+      "right": "test/right/00192.png",
+      "disp": "test/disparity/00192.npy",
+      "confidence": "test/confidence/00192.npy",
+      "mask_nocc": "test/mask_nocc/00192.png",
+      "mask_inpaint": "test/mask_inpaint/00192.png"
+    },
+    {
+      "out_index": 193,
+      "person_index": 1544,
+      "left": "test/left/00193.png",
+      "right": "test/right/00193.png",
+      "disp": "test/disparity/00193.npy",
+      "confidence": "test/confidence/00193.npy",
+      "mask_nocc": "test/mask_nocc/00193.png",
+      "mask_inpaint": "test/mask_inpaint/00193.png"
+    },
+    {
+      "out_index": 194,
+      "person_index": 1552,
+      "left": "test/left/00194.png",
+      "right": "test/right/00194.png",
+      "disp": "test/disparity/00194.npy",
+      "confidence": "test/confidence/00194.npy",
+      "mask_nocc": "test/mask_nocc/00194.png",
+      "mask_inpaint": "test/mask_inpaint/00194.png"
+    },
+    {
+      "out_index": 195,
+      "person_index": 1560,
+      "left": "test/left/00195.png",
+      "right": "test/right/00195.png",
+      "disp": "test/disparity/00195.npy",
+      "confidence": "test/confidence/00195.npy",
+      "mask_nocc": "test/mask_nocc/00195.png",
+      "mask_inpaint": "test/mask_inpaint/00195.png"
+    },
+    {
+      "out_index": 196,
+      "person_index": 1568,
+      "left": "test/left/00196.png",
+      "right": "test/right/00196.png",
+      "disp": "test/disparity/00196.npy",
+      "confidence": "test/confidence/00196.npy",
+      "mask_nocc": "test/mask_nocc/00196.png",
+      "mask_inpaint": "test/mask_inpaint/00196.png"
+    },
+    {
+      "out_index": 197,
+      "person_index": 1576,
+      "left": "test/left/00197.png",
+      "right": "test/right/00197.png",
+      "disp": "test/disparity/00197.npy",
+      "confidence": "test/confidence/00197.npy",
+      "mask_nocc": "test/mask_nocc/00197.png",
+      "mask_inpaint": "test/mask_inpaint/00197.png"
+    },
+    {
+      "out_index": 198,
+      "person_index": 1584,
+      "left": "test/left/00198.png",
+      "right": "test/right/00198.png",
+      "disp": "test/disparity/00198.npy",
+      "confidence": "test/confidence/00198.npy",
+      "mask_nocc": "test/mask_nocc/00198.png",
+      "mask_inpaint": "test/mask_inpaint/00198.png"
+    },
+    {
+      "out_index": 199,
+      "person_index": 1592,
+      "left": "test/left/00199.png",
+      "right": "test/right/00199.png",
+      "disp": "test/disparity/00199.npy",
+      "confidence": "test/confidence/00199.npy",
+      "mask_nocc": "test/mask_nocc/00199.png",
+      "mask_inpaint": "test/mask_inpaint/00199.png"
+    }
+  ]
+}
