@@ -242,57 +242,6 @@ Outputs:
     Compress-Archive -Path paper_mdpi_applied_sciences\* `
       -DestinationPath GASG_MDPI_AppliedSciences_Paper.zip -Force
 
-## Current Fair-Protocol Results
-
-Right-view generation on 200 PersonDataset test samples:
-
-| Method | PSNR | SSIM | LPIPS | Time |
-| --- | --- | --- | --- | --- |
-| Copy-left | 16.15 | 0.7753 | 0.2858 | 0.3 ms |
-| Constant shift | 16.82 | 0.8091 | 0.2222 | 1.3 ms |
-| DA-V2 calibrated warp | 18.07 | 0.8300 | 0.1916 | 467.2 ms |
-| MoGe calibrated warp | 18.26 | 0.8346 | 0.1748 | 305.2 ms |
-| ZeroStereo/StereoGen fine-tuned | 17.56 | 0.8124 | 0.1801 | 1765.7 ms |
-| GASG | 28.56 | 0.9687 | 0.0425 | 167.0 ms |
-
-Pseudo-stereo depth with DEFOM-Stereo as the common backend:
-
-| Right-view source | AbsRel | RMSE | delta1 |
-| --- | --- | --- | --- |
-| Copy-left | 1.0727 | 12.0946 | 0.0570 |
-| Constant shift | 1.3460 | 14.0147 | 0.0178 |
-| DA-V2 calibrated warp | 0.3830 | 5.6722 | 0.2458 |
-| Deep3D/SVSM-style | 0.3029 | 4.9800 | 0.3851 |
-| Pseudo-Stereo-3DOD reproduction | 0.3587 | 5.3650 | 0.2676 |
-| Mono2Stereo-DIBR | 0.3512 | 5.2293 | 0.2741 |
-| MoGe calibrated warp | 0.3211 | 5.0402 | 0.3450 |
-| ZeroStereo/StereoGen fine-tuned | 0.5356 | 7.2431 | 0.2604 |
-| GASG | 0.2974 | 4.8595 | 0.3838 |
-| True right reference | 0.2958 | 4.8371 | 0.3820 |
-
-Prior left-to-right generation comparison:
-
-| Method | PSNR | SSIM | LPIPS | Time |
-| --- | --- | --- | --- | --- |
-| Copy-left | 16.15 | 0.7753 | 0.2858 | 0.3 ms |
-| Deep3D/SVSM-style | 24.46 | 0.9359 | 0.0691 | 8.7 ms |
-| Pseudo-Stereo-3DOD reproduction | 18.71 | 0.8211 | 0.1953 | 458.9 ms |
-| Mono2Stereo-DIBR | 20.37 | 0.8572 | 0.1439 | 449.0 ms |
-| DA-V2 calibrated warp | 18.07 | 0.8300 | 0.1916 | 467.2 ms |
-| MoGe calibrated warp | 18.26 | 0.8346 | 0.1748 | 305.2 ms |
-| ZeroStereo/StereoGen fine-tuned | 17.56 | 0.8124 | 0.1801 | 1765.7 ms |
-| GASG | 28.56 | 0.9687 | 0.0425 | 167.0 ms |
-
-Stereo-backend generalization on 200 PersonDataset test samples:
-
-| Backend | Right source | AbsRel | RMSE | delta1 |
-| --- | --- | --- | --- | --- |
-| DEFOM-Stereo | GASG right | 0.2974 | 4.8595 | 0.3838 |
-| DEFOM-Stereo | True right | 0.2958 | 4.8371 | 0.3820 |
-| RAFT-Stereo | GASG right | 0.2492 | 4.3975 | 0.5326 |
-| RAFT-Stereo | True right | 0.2493 | 4.3901 | 0.5300 |
-| OpenCV SGBM | GASG right | 0.9633 | 11.6030 | 0.2037 |
-| OpenCV SGBM | True right | 0.9611 | 11.5933 | 0.2038 |
 
 ## Paper Assets
 
